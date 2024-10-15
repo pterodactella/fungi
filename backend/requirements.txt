@@ -1,0 +1,9 @@
+fastapi==0.109.2
+pydantic==2.6.1
+uvicorn==0.22.0
+langgraph
+langsmith
+langchain_anthropic
+openai
+python-dotenv
+langchain_openai
