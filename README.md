@@ -1,5 +1,5 @@
 ### Chatbot Project
-This project consists of a FastAPI-based backend and a Next.js frontend for a chatbot that interacts with users and provides information about coins (for now just the price of a given coin and the list of stable coins). Due to time constrains, this is a minimum viable product, it didn't take more than 3-4 hours and should be assesed accordingly.
+This project consists of a FastAPI-based backend and a Next.js frontend for a chatbot that interacts with users and provides information about coins (for now just the price of a given coin and the list of stable coins). Due to time constrains, this is a minimum viable product, it didn't take more than 3-4 hours and should be assesed accordingly. [See Demo](https://www.youtube.com/watch?v=7lAyHlCS3m8)
 
 ## Prerequisites
 
